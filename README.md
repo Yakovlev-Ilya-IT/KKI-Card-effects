@@ -1,12 +1,18 @@
 <h1 align="center"> Эффекты KKI карт + stencil buffer </h1>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Engine-Unity_2021.3.18%D0%B01-blueviolet" alt="Unity Version">
+   <img src="https://img.shields.io/badge/Engine-Unity_2022.3.1f1-blueviolet" alt="Unity Version">
 </p>
 
-## Ссылка на урок по созданию такого магазина
+## Ссылка на получающиеся эффекты 
 
-- [https://www.youtube.com/watch?v=AVNyJWvvovc&t=3348s](https://www.youtube.com/watch?v=AVNyJWvvovc&t=3348s)
+- https://youtu.be/Xa0ynihfSbg
+- https://youtu.be/MvBTCkYUpYQ 
+
+## Ссылка на урок по созданию таких эффектов
+
+- https://youtu.be/YeDoiT_UtGk
+- https://youtu.be/rA_dC8G8fLY
   
 ## Разработчик
 
