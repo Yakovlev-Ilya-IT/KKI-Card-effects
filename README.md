@@ -8,6 +8,11 @@
 - [https://youtu.be/E-xG4j8hQfk](https://youtu.be/Xa0ynihfSbg)
 - [https://youtu.be/MvBTCkYUpYQ ](https://youtu.be/MvBTCkYUpYQ)
 
+## Ссылка на уроки по созданию таких эффектов
+
+- [https://www.youtube.com/watch?v=AVNyJWvvovc&t=3348s](https://www.youtube.com/watch?v=YeDoiT_UtGk)
+- [https://www.youtube.com/watch?v=rA_dC8G8fLY ](https://www.youtube.com/watch?v=rA_dC8G8fLY)
+
 ## Разработчик
 
 - [Ilya Yakolev] https://github.com/Yakovlev-Ilya-IT
